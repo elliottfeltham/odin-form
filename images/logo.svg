@@ -3,7 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Milky_Way_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<circle id="Background" fill="#323653" cx="256" cy="256" r="255.931"/>
+<circle id="Background" fill="#000000" cx="256" cy="256" r="255.931"/>
 <path id="Shadow" opacity="0.1" d="M391.955,191.421L128.029,343.223L293.957,509.15c91.82-13.846,172.848-77.333,204.559-171.378
 	c3.854-11.427,6.833-22.936,9.015-34.457L391.955,191.421z"/>
 <g id="Milky_Way">
